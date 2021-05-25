@@ -1,0 +1,94 @@
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\bin\Debug\University_Management.exe.config
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\bin\Debug\University_Management.exe
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\bin\Debug\University_Management.pdb
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.AdminForm.resources
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.AdminInformation.resources
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.CourseInfo.resources
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.LoginForm.resources
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.Properties.Resources.resources
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.SectionInfo.resources
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.StudentForm.resources
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.StudentGrade.resources
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.exe
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.pdb
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.StudentGradeShowForm.resources
+D:\C#\University_Management\University_Management\bin\Debug\University_Management.exe.config
+D:\C#\University_Management\University_Management\obj\Debug\University_Management.exe
+D:\C#\University_Management\University_Management\obj\Debug\University_Management.pdb
+D:\AIUB\C# project\University_Management\University_Management\bin\Debug\University_Management.exe.config
+D:\AIUB\C# project\University_Management\University_Management\bin\Debug\University_Management.exe
+D:\AIUB\C# project\University_Management\University_Management\bin\Debug\University_Management.pdb
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.csprojAssemblyReference.cache
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.AdminForm.resources
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.AdminInformation.resources
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.CourseInfo.resources
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.LoginForm.resources
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.Properties.Resources.resources
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.SectionInfo.resources
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.StudentForm.resources
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.StudentGrade.resources
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.StudentGradeShowForm.resources
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.StudentNoticeForm.resources
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.StudentOfferedCourseForm.resources
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.StudentRegForm.resources
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.TeacherForm.resources
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.TeacherNoticeForm.resources
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.TeacherOfferedCourseForm.resources
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.TeacherRegForm.resources
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.csproj.GenerateResource.cache
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.exe
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.pdb
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.AdminStudentInfo.resources
+D:\AIUB\C# project\University_Management\University_Management\obj\Debug\University_Management.AdminTeacherInfo.resources
+E:\C#\Project\University_Management\University_Management\bin\Debug\University_Management.exe.config
+E:\C#\Project\University_Management\University_Management\bin\Debug\University_Management.exe
+E:\C#\Project\University_Management\University_Management\bin\Debug\University_Management.pdb
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.csprojAssemblyReference.cache
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.AdminForm.resources
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.AdminInformation.resources
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.AdminStudentInfo.resources
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.AdminTeacherInfo.resources
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.CourseInfo.resources
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.LoginForm.resources
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.Properties.Resources.resources
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.SectionInfo.resources
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.StudentForm.resources
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.StudentGrade.resources
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.StudentGradeShowForm.resources
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.StudentNoticeForm.resources
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.StudentOfferedCourseForm.resources
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.StudentRegForm.resources
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.TeacherForm.resources
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.TeacherNoticeForm.resources
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.TeacherOfferedCourseForm.resources
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.TeacherRegForm.resources
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.csproj.GenerateResource.cache
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.exe
+E:\C#\Project\University_Management\University_Management\obj\Debug\University_Management.pdb
+D:\New folder\University_Management\University_Management\bin\Debug\University_Management.exe.config
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.exe
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.pdb
+D:\New folder\University_Management\University_Management\bin\Debug\University_Management.exe
+D:\New folder\University_Management\University_Management\bin\Debug\University_Management.pdb
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.csprojResolveAssemblyReference.cache
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.AdminForm.resources
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.AdminInformation.resources
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.AdminStudentInfo.resources
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.AdminTeacherInfo.resources
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.CourseInfo.resources
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.LoginForm.resources
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.Properties.Resources.resources
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.SectionInfo.resources
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.StudentForm.resources
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.StudentGrade.resources
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.StudentGradeShowForm.resources
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.StudentNoticeForm.resources
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.StudentOfferedCourseForm.resources
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.StudentRegForm.resources
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.TeacherForm.resources
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.TeacherNoticeForm.resources
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.TeacherOfferedCourseForm.resources
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.TeacherRegForm.resources
+D:\New folder\University_Management\University_Management\obj\Debug\University_Management.csproj.GenerateResource.Cache
